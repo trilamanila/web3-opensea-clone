@@ -1,6 +1,6 @@
 # Opensea Clone
 
-![Project Image](web3-opensea-clone/public/demo.png)
+![Project Image](web3-opensea-clone/demo.png)
 
 > Opensea Clone live demo here (http://web3-opensea-clone.vercel.app/)
 
@@ -42,7 +42,7 @@ Opensea clone was created for learning purposes to better understand Web 3. It i
 - `npm install`
 
 
-[Back To The Top](#amazon-clone)
+[Back To The Top](#web3-opensea-clone)
 
 ---
 
