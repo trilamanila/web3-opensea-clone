@@ -1,4 +1,4 @@
-# Opensea Clone
+# Web3-Opensea-Clone
 
 ![Project Image](/public/demo.png)
 
