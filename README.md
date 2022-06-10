@@ -18,7 +18,8 @@
 
 ## Description
 
-Opensea clone was created for learning purposes to better understand Web 3. It is a multi page responsive NFT marketplace website. Smart contracts provided through thirdweb, styled with Tailwind CSS, and hosted on Vercel.
+Opensea clone was created for learning purposes to better understand Web 3 and Blockchain. It is a responsive Web3 NFT marketplace website application with Next JS. Create and mint own NFTs through thirdweb SDK. Web 3.0 authentication using Metamask wallet. Styled with Tailwind CSS and styled components. Blockchain token backend data handled by Sanity.io. Deployed and hosted on Vercel.
+
 
 #### Technologies
 
@@ -37,8 +38,7 @@ Opensea clone was created for learning purposes to better understand Web 3. It i
 
 #### Installation
 
-- `git clone https://github.com/trilamanila/amazon`
-- `cd amazon`
+- `git clone https://github.com/trilamanila/web3-opensea-clone`
 - `npm install`
 
 
