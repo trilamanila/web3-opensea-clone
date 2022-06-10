@@ -1,6 +1,6 @@
 # Opensea Clone
 
-![Project Image](opensea_clone/public/demo.png)
+![Project Image](web3-opensea-clone-main/public/demo.png)
 
 > Opensea Clone live demo here (http://web3-opensea-clone.vercel.app/)
 
